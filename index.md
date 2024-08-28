@@ -2,6 +2,8 @@
 
 - I love how we are learning to make our own websites
 - I love to learn new computer commands
+- I love to meet new people with similar majors
+- I love to grow my knowledge on programing
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
